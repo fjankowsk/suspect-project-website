@@ -8,9 +8,6 @@ TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = 'en'
 
-# use bootstrap3
-THEME = "/home/runner/work/suspect-project-website/suspect-project-website/themes/pelican-bootstrap3"
-
 # use better typography
 TYPOGRIFY = True
 
