@@ -1,10 +1,10 @@
-AUTHOR = 'Fabian Jankowski'
+AUTHOR = 'Dr Fabian Jankowski'
 SITENAME = 'The SUSPECT project'
 SITEURL = ""
 
 PATH = "content"
 
-TIMEZONE = 'UTC'
+TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = 'en'
 
