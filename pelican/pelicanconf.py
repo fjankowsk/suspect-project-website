@@ -1,12 +1,15 @@
 AUTHOR = "Dr Fabian Jankowski"
 SITENAME = "The SUSPECT project"
-SITEURL = ""
+SITEURL = "https://suspectproject.com"
 
 PATH = "content"
 
 TIMEZONE = "Europe/London"
 
 DEFAULT_LANG = "en"
+
+# use bootstrap3
+THEME = "themes/pelican-bootstrap3"
 
 # use better typography
 TYPOGRIFY = True
