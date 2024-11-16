@@ -1,12 +1,12 @@
-AUTHOR = 'Dr Fabian Jankowski'
-SITENAME = 'The SUSPECT project'
+AUTHOR = "Dr Fabian Jankowski"
+SITENAME = "The SUSPECT project"
 SITEURL = ""
 
 PATH = "content"
 
-TIMEZONE = 'Europe/London'
+TIMEZONE = "Europe/London"
 
-DEFAULT_LANG = 'en'
+DEFAULT_LANG = "en"
 
 # use better typography
 TYPOGRIFY = True
