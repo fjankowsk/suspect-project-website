@@ -11,7 +11,7 @@ jobs:
       pages: "write"
       id-token: "write"
     with:
-      settings: "pelican/publishconf.py"
+      settings: "publishconf.py"
       requirements: "pelican[markdown] typogrify"
       theme: "https://github.com/seanh/sidecar.git"
       python: "3.12"
