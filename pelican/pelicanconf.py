@@ -8,6 +8,22 @@ TIMEZONE = "Europe/London"
 
 DEFAULT_LANG = "en"
 
+PLUGIN_PATHS = ["./plugins"]
+PLUGINS = []
+
+MARKDOWN = {
+    "extension_configs": {
+        "markdown.extensions.codehilite": {
+            "noclasses": True,
+            "pygments_style": "default",
+            "use_pygments": True,
+        },
+        "markdown.extensions.extra": {},
+        "markdown.extensions.smarty": {},
+        "markdown.extensions.toc": {},
+    }
+}
+
 # use bootstrap3
 THEME = "themes/pelican-bootstrap3"
 
