@@ -9,7 +9,7 @@ TIMEZONE = 'Europe/London'
 DEFAULT_LANG = 'en'
 
 # use bootstrap3
-THEME = "themes/pelican-bootstrap3"
+THEME = "./themes/pelican-bootstrap3"
 
 # use better typography
 TYPOGRIFY = True
