@@ -13,4 +13,5 @@ jobs:
     with:
       settings: "publishconf.py"
       requirements: "pelican[markdown] typogrify"
+      theme: "https://github.com/getpelican/pelican-themes.git"
       python: "3.12"
