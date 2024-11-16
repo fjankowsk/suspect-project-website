@@ -8,6 +8,12 @@ TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = 'en'
 
+# use bootstrap3
+THEME = "themes/pelican-bootstrap3"
+
+# use better typography
+TYPOGRIFY = True
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
