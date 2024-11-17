@@ -65,6 +65,7 @@ STATIC_PATHS = ["extra"]
 EXTRA_PATH_METADATA = {
     "extra/CNAME": {"path": "CNAME"},
     "extra/custom.css": {"path": "static/custom.css"},
+    "extra/favicon.ico": {"path": "favicon.ico"},
 }
 
 # add date to output filenames and drafts
@@ -103,3 +104,5 @@ PAGINATION_PATTERNS = (
     (1, "{base_name}/", "{base_name}/index.html"),
     (2, "{base_name}/{number}/", "{base_name}/{number}/index.html"),
 )
+
+FAVICON = "favicon.ico"
