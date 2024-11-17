@@ -62,6 +62,7 @@ DEFAULT_PAGINATION = False
 STATIC_PATHS = ["extra"]
 
 EXTRA_PATH_METADATA = {
+    "extra/CNAME": {"path": "CNAME"},
     "extra/custom.css": {"path": "static/custom.css"},
 }
 
