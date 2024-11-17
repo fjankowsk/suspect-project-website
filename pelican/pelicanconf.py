@@ -45,13 +45,17 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-    ("Pelican", "https://getpelican.com/"),
+    ("MeerTRAP", "https://www.meertrap.org/"),
+    ("TRAPUM", "http://trapum.org/"),
+    ("MeerTime", "http://www.meertime.org/"),
+    ("PSRCHIVE", "http://psrchive.sourceforge.net/"),
+    ("DSPSR", "http://dspsr.sourceforge.net/"),
 )
 
 # Social widget
 SOCIAL = (
     ("GitHub", "https://github.com/fjankowsk"),
-    ("Twitter", "https://twitter.com/fabjankowski"),
+    ("Twitter", "https://x.com/fabjankowski"),
 )
 
 DEFAULT_PAGINATION = False
