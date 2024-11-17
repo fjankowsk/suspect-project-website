@@ -1,2 +1,3 @@
-# suspect-project-website
-Website for the SUSPECT project.
+# SUSPECT Project Website #
+
+Website for the SUSPECT radio pulsar observing project.
