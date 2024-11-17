@@ -1,5 +1,5 @@
 AUTHOR = "Dr Fabian Jankowski"
-SITENAME = "The SUSPECT project"
+SITENAME = "The SUSPECT Project"
 SITEURL = "https://suspectproject.com"
 
 PATH = "content"
@@ -46,15 +46,12 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (
     ("Pelican", "https://getpelican.com/"),
-    ("Python.org", "https://www.python.org/"),
-    ("Jinja2", "https://palletsprojects.com/p/jinja/"),
-    ("You can modify those links in your config file", "#"),
 )
 
 # Social widget
 SOCIAL = (
-    ("You can add links in your config file", "#"),
-    ("Another social link", "#"),
+    ("GitHub", "https://github.com/fjankowsk"),
+    ("Twitter", "https://twitter.com/fabjankowski"),
 )
 
 DEFAULT_PAGINATION = False
