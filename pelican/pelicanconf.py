@@ -2,11 +2,14 @@ AUTHOR = "Dr Fabian Jankowski"
 SITENAME = "The SUSPECT project"
 SITEURL = "https://suspectproject.com"
 
-PATH = "content"
+PATH = "../raw"
 
 TIMEZONE = "Europe/London"
 
 DEFAULT_LANG = "en"
+
+# use better name for blog
+DEFAULT_CATEGORY = "news"
 
 PLUGIN_PATHS = ["./plugins"]
 PLUGINS = []
@@ -26,6 +29,9 @@ MARKDOWN = {
 
 # use bootstrap3
 THEME = "themes/pelican-bootstrap3"
+
+# use custom CSS
+CUSTOM_CSS = "static/custom.css"
 
 # use better typography
 TYPOGRIFY = True
@@ -52,6 +58,12 @@ SOCIAL = (
 )
 
 DEFAULT_PAGINATION = False
+
+STATIC_PATHS = ["extra"]
+
+EXTRA_PATH_METADATA = {
+    "extra/custom.css": {"path": "static/custom.css"},
+}
 
 # add date to output filenames and drafts
 ARTICLE_URL = "{date:%Y-%m-%d}.{slug}/"
