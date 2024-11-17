@@ -45,6 +45,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
+    ("Fabian Jankowski", "https://fabian.jankowskis.org/"),
     ("MeerTRAP", "https://www.meertrap.org/"),
     ("TRAPUM", "http://trapum.org/"),
     ("MeerTime", "http://www.meertime.org/"),
