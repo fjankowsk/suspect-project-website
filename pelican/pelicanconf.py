@@ -2,7 +2,7 @@ AUTHOR = "Dr Fabian Jankowski"
 SITENAME = "The SUSPECT project"
 SITEURL = "https://suspectproject.com"
 
-PATH = "../raw"
+PATH = "content"
 
 TIMEZONE = "Europe/London"
 
