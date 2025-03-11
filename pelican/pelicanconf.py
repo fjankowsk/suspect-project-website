@@ -1,5 +1,5 @@
-AUTHOR = "Dr Fabian Jankowski"
-SITENAME = "The SUSPECT Project"
+AUTHOR = "SUSPECT project"
+SITENAME = "The SUSPECT project"
 SITEURL = "https://suspectproject.com"
 
 PATH = "content"
@@ -104,3 +104,5 @@ PAGINATION_PATTERNS = (
 )
 
 FAVICON = "favicon.ico"
+
+ABOUT_ME = "The Science Using Single-Pulse Exploration with Combined Telescopes (SUSPECT) project is a multi-telescope pulsar observing programme."
