@@ -56,7 +56,6 @@ LINKS = (
 # Social widget
 SOCIAL = (
     ("GitHub", "https://github.com/fjankowsk"),
-    ("Twitter", "https://x.com/fabjankowski"),
 )
 
 DEFAULT_PAGINATION = 20
