@@ -64,6 +64,7 @@ EXTRA_PATH_METADATA = {
     "extra/CNAME": {"path": "CNAME"},
     "extra/custom.css": {"path": "static/custom.css"},
     "extra/favicon.ico": {"path": "favicon.ico"},
+    "extra/banner.jpg": {"path": "images/banner.jpg"},
 }
 
 # add date to output filenames and drafts
