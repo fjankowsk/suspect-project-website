@@ -103,6 +103,9 @@ PAGINATION_PATTERNS = (
     (2, "{base_name}/{number}/", "{base_name}/{number}/index.html"),
 )
 
-FAVICON = "favicon.ico"
-
 ABOUT_ME = "The Science Using Single-Pulse Exploration with Combined Telescopes (SUSPECT) project is a multi-telescope pulsar observing programme."
+
+BANNER = "images/banner.jpg"
+BANNER_ALL_PAGES = True
+
+FAVICON = "favicon.ico"
