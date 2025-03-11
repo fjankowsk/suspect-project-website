@@ -46,9 +46,7 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (
     ("Fabian Jankowski", "https://fabian.jankowskis.org/"),
-    ("MeerTRAP", "https://www.meertrap.org/"),
-    ("TRAPUM", "http://trapum.org/"),
-    ("MeerTime", "http://www.meertime.org/"),
+    ("Nançay Radio Observatory", "https://www.obs-nancay.fr/"),
     ("PSRCHIVE", "http://psrchive.sourceforge.net/"),
     ("DSPSR", "http://dspsr.sourceforge.net/"),
 )
