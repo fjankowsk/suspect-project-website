@@ -10,4 +10,10 @@ In this project, we study the multi-frequency radio emission of pulsars, which a
 
 ![Frequency coverage of the radio telescopes involved in the project.]({static}/images/freq_coverage.jpg)
 
+## Publications ##
+
+1) [Science Using Single-Pulse Exploration with Combined Telescopes. I. The mode switching, flaring, and single-pulse morphology of PSR B1822-09](https://ui.adsabs.harvard.edu/abs/2024arXiv240705156J/abstract)
+
+Jankowski et al. 2025. Project overview paper and first results. uGMRT data only.
+
 The website is maintained by Dr Fabian Jankowski.
