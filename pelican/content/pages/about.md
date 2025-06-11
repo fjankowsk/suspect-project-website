@@ -12,8 +12,12 @@ In this project, we study the multi-frequency radio emission of pulsars, which a
 
 ## Publications ##
 
+2) [Probing Pulsar Magnetospheres Using Coordinated Single-Pulse Observations]({static}/images/2025-04-16_Les_Houches_conference/Jankowski_SUSPECT_poster_Les_Houches.pdf)
+
+April 2025. Jankowski. Poster at the Les Houches conference in the French Alps near Chamonix.
+
 1) [Science Using Single-Pulse Exploration with Combined Telescopes. I. The mode switching, flaring, and single-pulse morphology of PSR B1822-09](https://ui.adsabs.harvard.edu/abs/2024arXiv240705156J/abstract)
 
-Jankowski et al. 2025. Project overview paper and first results. uGMRT data only.
+February 2025. Jankowski et al. 2025. Project overview paper (A&A) and first results. uGMRT data only.
 
 The website is maintained by Dr Fabian Jankowski.
