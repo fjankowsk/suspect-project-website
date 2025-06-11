@@ -110,3 +110,6 @@ BANNER = "images/banner.jpg"
 BANNER_ALL_PAGES = True
 
 FAVICON = "favicon.ico"
+
+# display date and tags on index as well
+DISPLAY_ARTICLE_INFO_ON_INDEX = True
