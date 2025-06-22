@@ -12,9 +12,13 @@ In this project, we study the multi-frequency radio emission of pulsars, which a
 
 ## Publications ##
 
+3) [Sub-GHz Radio Pulsar Emission - Lessons Learned and Predictions for SKA]({static}/images/2025-06-21_SKAO_General_Science_Meeting/Jankowski_Fabian_803.pdf)
+
+June 2025. Jankowski. Presentation at the [SKAO General Science Meeting](https://www.skao.int/en/science-users/skao-science-meeting-2025) in Görlitz, Germany.
+
 2) [Probing Pulsar Magnetospheres Using Coordinated Single-Pulse Observations]({static}/images/2025-04-16_Les_Houches_conference/Jankowski_SUSPECT_poster_Les_Houches.pdf)
 
-April 2025. Jankowski. Poster at the Les Houches conference in the French Alps near Chamonix.
+April 2025. Jankowski. Poster at the [Les Houches conference](https://r-magnetosphere.sciencesconf.org/?lang=en) in the French Alps near Chamonix.
 
 1) [Science Using Single-Pulse Exploration with Combined Telescopes. I. The mode switching, flaring, and single-pulse morphology of PSR B1822-09](https://ui.adsabs.harvard.edu/abs/2024arXiv240705156J/abstract)
 
