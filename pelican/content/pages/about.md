@@ -12,19 +12,19 @@ In this project, we study the multi-frequency radio emission of pulsars, which a
 
 ## Publications ##
 
-* [Pulsar Single-Pulse Modulation Properties from Multi-Frequency Observations]({static}/images/2025-09-27_Pulsar_2025_conference/Jankowski_poster_single-pulse_modulation.pdf)
+4) [Pulsar Single-Pulse Modulation Properties from Multi-Frequency Observations]({static}/images/2025-09-27_Pulsar_2025_conference/Jankowski_poster_single-pulse_modulation.pdf)
 
 September 2025. Jankowski. Poster at the [Pulsar 2025 conference](https://sites.google.com/inaf.it/pulsar2025/) in Sardinia, Italy.
 
-* [Sub-GHz Radio Pulsar Emission - Lessons Learned and Predictions for SKA]({static}/images/2025-06-21_SKAO_General_Science_Meeting/Jankowski_Fabian_803.pdf)
+3) [Sub-GHz Radio Pulsar Emission - Lessons Learned and Predictions for SKA]({static}/images/2025-06-21_SKAO_General_Science_Meeting/Jankowski_Fabian_803.pdf)
 
 June 2025. Jankowski. Presentation at the [SKAO General Science Meeting](https://www.skao.int/en/science-users/skao-science-meeting-2025) in Görlitz, Germany.
 
-* [Probing Pulsar Magnetospheres Using Coordinated Single-Pulse Observations]({static}/images/2025-04-16_Les_Houches_conference/Jankowski_SUSPECT_poster_Les_Houches.pdf)
+2) [Probing Pulsar Magnetospheres Using Coordinated Single-Pulse Observations]({static}/images/2025-04-16_Les_Houches_conference/Jankowski_SUSPECT_poster_Les_Houches.pdf)
 
 April 2025. Jankowski. Poster at the [Les Houches conference](https://r-magnetosphere.sciencesconf.org/?lang=en) in the French Alps near Chamonix.
 
-* [Science Using Single-Pulse Exploration with Combined Telescopes. I. The mode switching, flaring, and single-pulse morphology of PSR B1822-09](https://ui.adsabs.harvard.edu/abs/2024arXiv240705156J/abstract)
+1) [Science Using Single-Pulse Exploration with Combined Telescopes. I. The mode switching, flaring, and single-pulse morphology of PSR B1822-09](https://ui.adsabs.harvard.edu/abs/2024arXiv240705156J/abstract)
 
 February 2025. Jankowski et al. 2025. Project overview paper (A&A) and first results. uGMRT data only.
 
