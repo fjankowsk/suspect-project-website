@@ -12,20 +12,24 @@ In this project, we study the multi-frequency radio emission of pulsars, which a
 
 ## Publications ##
 
-4) [Pulsar Single-Pulse Modulation Properties from Multi-Frequency Observations]({static}/images/2025-09-27_Pulsar_2025_conference/Jankowski_poster_single-pulse_modulation.pdf)
+5) [Pulsar Single-Pulse Modulation Properties from Multi-Frequency Observations]({static}/images/2025-09-27_Pulsar_2025_conference/Jankowski_poster_single-pulse_modulation.pdf)
 
 September 2025. Jankowski. Poster at the [Pulsar 2025 conference](https://sites.google.com/inaf.it/pulsar2025/) in Sardinia, Italy.
 
-3) [Sub-GHz Radio Pulsar Emission - Lessons Learned and Predictions for SKA]({static}/images/2025-06-21_SKAO_General_Science_Meeting/Jankowski_Fabian_803.pdf)
+4) [Sub-GHz Radio Pulsar Emission - Lessons Learned and Predictions for SKA]({static}/images/2025-06-21_SKAO_General_Science_Meeting/Jankowski_Fabian_803.pdf)
 
 June 2025. Jankowski. Presentation at the [SKAO General Science Meeting](https://www.skao.int/en/science-users/skao-science-meeting-2025) in Görlitz, Germany.
 
-2) [Probing Pulsar Magnetospheres Using Coordinated Single-Pulse Observations]({static}/images/2025-04-16_Les_Houches_conference/Jankowski_SUSPECT_poster_Les_Houches.pdf)
+3) [Probing Pulsar Magnetospheres Using Coordinated Single-Pulse Observations]({static}/images/2025-04-16_Les_Houches_conference/Jankowski_SUSPECT_poster_Les_Houches.pdf)
 
 April 2025. Jankowski. Poster at the [Les Houches conference](https://r-magnetosphere.sciencesconf.org/?lang=en) in the French Alps near Chamonix.
 
-1) [Science Using Single-Pulse Exploration with Combined Telescopes. I. The mode switching, flaring, and single-pulse morphology of PSR B1822-09](https://ui.adsabs.harvard.edu/abs/2024arXiv240705156J/abstract)
+2) [Science Using Single-Pulse Exploration with Combined Telescopes. I. The mode switching, flaring, and single-pulse morphology of PSR B1822-09](https://ui.adsabs.harvard.edu/abs/2024arXiv240705156J/abstract)
 
 February 2025. Jankowski et al. 2025. Project overview paper (A&A) and first results. uGMRT data only.
+
+1) Understanding the mode changing of radio pulsars (Comprendre le changement de modes de pulsars radio)
+
+2023/2024. Master's thesis, Killian Lebreton, University of Orléans. Supervisors: Jankowski, Grießmeier
 
 The website is maintained by Dr Fabian Jankowski.
