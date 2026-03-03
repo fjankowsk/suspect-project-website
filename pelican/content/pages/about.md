@@ -12,24 +12,40 @@ In this project, we study the multi-frequency radio emission of pulsars, which a
 
 ## Publications ##
 
-5) [Pulsar Single-Pulse Modulation Properties from Multi-Frequency Observations]({static}/images/2025-09-27_Pulsar_2025_conference/Jankowski_poster_single-pulse_modulation.pdf)
+9) [Pulsar Single-Pulse Modulation Properties from Multi-Frequency Observations](https://doi.org/10.5281/zenodo.18461611)
 
-September 2025. Jankowski. Poster at the [Pulsar 2025 conference](https://sites.google.com/inaf.it/pulsar2025/) in Sardinia, Italy.
+September 2025. Jankowski, poster at the [Pulsar 2025 conference](https://sites.google.com/inaf.it/pulsar2025/) in Sardinia, Italy. [Local copy]({static}/images/2025-09-27_Pulsar_2025_conference/Jankowski_poster_single-pulse_modulation.pdf) of the poster.
 
-4) [Sub-GHz Radio Pulsar Emission - Lessons Learned and Predictions for SKA]({static}/images/2025-06-21_SKAO_General_Science_Meeting/Jankowski_Fabian_803.pdf)
+8) [Sub-GHz Radio Pulsar Emission - Lessons Learned and Predictions for SKA](https://doi.org/10.5281/zenodo.18472128)
 
-June 2025. Jankowski. Presentation at the [SKAO General Science Meeting](https://www.skao.int/en/science-users/skao-science-meeting-2025) in Görlitz, Germany.
+June 2025. Jankowski, presentation at the [SKAO General Science Meeting](https://www.skao.int/en/science-users/skao-science-meeting-2025) in Görlitz, Germany.  [Local copy]({static}/images/2025-06-21_SKAO_General_Science_Meeting/Jankowski_Fabian_803.pdf) of the slides.
 
-3) [Probing Pulsar Magnetospheres Using Coordinated Single-Pulse Observations]({static}/images/2025-04-16_Les_Houches_conference/Jankowski_SUSPECT_poster_Les_Houches.pdf)
+7) [Probing Pulsar Magnetospheres Using Coordinated Single-Pulse Observations](https://doi.org/10.5281/zenodo.18468626)
 
-April 2025. Jankowski. Poster at the [Les Houches conference](https://r-magnetosphere.sciencesconf.org/?lang=en) in the French Alps near Chamonix.
+April 2025. Jankowski, poster at the [Les Houches conference](https://r-magnetosphere.sciencesconf.org/?lang=en) in the French Alps near Chamonix. [Local copy]({static}/images/2025-04-16_Les_Houches_conference/Jankowski_SUSPECT_poster_Les_Houches.pdf) of the poster.
 
-2) [Science Using Single-Pulse Exploration with Combined Telescopes. I. The mode switching, flaring, and single-pulse morphology of PSR B1822-09](https://ui.adsabs.harvard.edu/abs/2024arXiv240705156J/abstract)
+6) [Science Using Single-Pulse Exploration with Combined Telescopes. I. The mode switching, flaring, and single-pulse morphology of PSR B1822-09](https://doi.org/10.1051/0004-6361/202451384)
 
-February 2025. Jankowski et al. 2025. Project overview paper (A&A) and first results. uGMRT data only.
+February 2025. Jankowski et al. 2025. Project overview paper (A&A) and first results.
 
-1) Understanding the mode changing of radio pulsars (Comprendre le changement de modes de pulsars radio)
+5) [Multi-telescope Pulsar Single-pulse Studies with the Nançay Radio Observatory Telescopes Leading into the SKA Era](https://doi.org/10.5281/zenodo.18482405)
 
-2023/2024. Master's thesis, Killian Lebreton, University of Orléans. Supervisors: Jankowski, Grießmeier
+November 2024. Jankowski, [AstroRadioFr24](https://astroradiofr24.sciencesconf.org/?lang=en) conference, Paris, France.
+
+4) Probing the wideband single-pulse radio emission from pulsars
+
+June 2024. Jankowski, ANR MORPHER multiwavelength collaboration meeting, IRAP, Toulouse, France.
+
+3) Pulsar Single-pulse Studies with NenuFAR and other Telescopes
+
+April 2024. Jankowski, [NenuFAR Family Meeting](https://nfm2024.sciencesconf.org/), Nançay Radio Observatory, France.
+
+2) Understanding the mode changing of radio pulsars (Comprendre le changement de modes de pulsars radio)
+
+2023/2024. Master's thesis, Killian Lebreton, University of Orléans. Supervisors: Fabian Jankowski & Jean-Mathias Grießmeier
+
+1) [FRBs and pulsars with MeerKAT and the Nançay Radio Observatory telescopes](https://doi.org/10.5281/zenodo.18494699)
+
+June 2023. Jankowski, [Timing and Imaging of compact sources with SKA pathfinders and precursors](https://www.atnf.csiro.au/news/conferences/2023-conferences/2023-kerastari/), Kerastari/Tripolis, Greece.
 
 The website is maintained by Dr Fabian Jankowski.
