@@ -4,8 +4,8 @@ SITEURL = "https://suspectproject.com"
 
 PATH = "content"
 
+LOCALE = "en_GB.UTF-8"
 TIMEZONE = "Europe/London"
-
 DEFAULT_LANG = "en"
 
 # use better name for blog
