@@ -12,9 +12,13 @@ In this project, we study the multi-frequency radio emission of pulsars, which a
 
 ## Publications ##
 
+11) [Pulsar Radio Phenomenology and Fundamental Physics](https://doi.org/10.5281/zenodo.20416461)
+
+May 2025. Jankowski. Poster at the [SKA 2026 conference](https://ska-meudon2026.sciencesconf.org/?lang=en) at Paris Observatory - PSL in Paris Meudon, France. [Local copy]({static}/images/2026-05-21_Paris_SKA_conference/Jankowski_Fabian_Pulsar_Radio_Phenomenology.pdf) of the poster.
+
 10) [SUSPECT Paper I Zenodo data publication](https://doi.org/10.5281/zenodo.18497372)
 
-This includes the integrated pulse profile of PSR B1822-09 at 650 MHz obtained from our uGMRT observations, as well as the entire dataset (8723 files) of single pulse dynamic spectrum plots in PDF format. This amounts to about 5 GB of data, which is only a small fraction of the entire single-pulse dataset.
+February 2026. This includes the integrated pulse profile of PSR B1822-09 at 650 MHz obtained from our uGMRT observations, as well as the entire dataset (8723 files) of single pulse dynamic spectrum plots in PDF format. This amounts to about 5 GB of data, which is only a small fraction of the entire single-pulse dataset.
 
 9) [Pulsar Single-Pulse Modulation Properties from Multi-Frequency Observations](https://doi.org/10.5281/zenodo.18461611)
 
