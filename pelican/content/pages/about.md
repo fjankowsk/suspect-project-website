@@ -14,7 +14,7 @@ In this project, we study the multi-frequency radio emission of pulsars, which a
 
 11) [Pulsar Radio Phenomenology and Fundamental Physics](https://doi.org/10.5281/zenodo.20416461)
 
-May 2025. Jankowski. Poster at the [SKA 2026 conference](https://ska-meudon2026.sciencesconf.org/?lang=en) at Paris Observatory - PSL in Paris Meudon, France. [Local copy]({static}/images/2026-05-21_Paris_SKA_conference/Jankowski_Fabian_Pulsar_Radio_Phenomenology.pdf) of the poster.
+May 2026. Jankowski. Poster at the [SKA 2026 conference](https://ska-meudon2026.sciencesconf.org/?lang=en) at Paris Observatory - PSL in Paris Meudon, France. [Local copy]({static}/images/2026-05-21_Paris_SKA_conference/Jankowski_Fabian_Pulsar_Radio_Phenomenology.pdf) of the poster.
 
 10) [SUSPECT Paper I Zenodo data publication](https://doi.org/10.5281/zenodo.18497372)
 
