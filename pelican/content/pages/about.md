@@ -12,6 +12,10 @@ In this project, we study the multi-frequency radio emission of pulsars, which a
 
 ## Publications ##
 
+12) [Science Using Single-Pulse Exploration with Combined Telescopes: II. Pulse profile evolution and single-pulse modulation](https://arxiv.org/abs/2609.38039)
+
+Submitted September 2026. SUSPECT Paper II.
+
 11) [Pulsar Radio Phenomenology and Fundamental Physics](https://doi.org/10.5281/zenodo.20416461)
 
 May 2026. Jankowski. Poster at the [SKA 2026 conference](https://ska-meudon2026.sciencesconf.org/?lang=en) at Paris Observatory - PSL in Paris Meudon, France. [Local copy]({static}/images/2026-05-21_Paris_SKA_conference/Jankowski_Fabian_Pulsar_Radio_Phenomenology.pdf) of the poster.
